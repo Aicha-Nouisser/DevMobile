@@ -5,8 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#03224c"
-    tools:context=".StartWork">
-
+    tools:context=".MainActivity4">
     <TextView
         android:id="@+id/titlepage"
         android:layout_width="wrap_content"
@@ -108,7 +107,7 @@
         <ImageView
             android:layout_width="90dp"
             android:layout_height="70dp"
-            android:src="@drawable/fitpicon"
+            android:src="@drawable/img3"
             tools:ignore="MissingConstraints"
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="235dp" />
@@ -187,3 +186,4 @@
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+

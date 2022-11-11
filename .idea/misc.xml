@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/aicha/AndroidStudioProjects/AichaFF/app/src/main/res/layout/activity_main.xml" value="0.14563106796116504" />
-        <entry key="..\:/Users/aicha/AndroidStudioProjects/AichaFF/app/src/main/res/layout/activity_main2.xml" value="0.1" />
-        <entry key="..\:/Users/aicha/AndroidStudioProjects/AichaFF/app/src/main/res/layout/activity_start_work.xml" value="0.16759776536312848" />
+        <entry key="..\:/Users/aicha/AndroidStudioProjects/AichaFF/app/src/main/res/layout/activity_main2.xml" value="0.15" />
+        <entry key="..\:/Users/aicha/AndroidStudioProjects/AichaFF/app/src/main/res/layout/activity_main3.xml" value="0.1" />
+        <entry key="..\:/Users/aicha/AndroidStudioProjects/AichaFF/app/src/main/res/layout/activity_main4.xml" value="0.1" />
+        <entry key="..\:/Users/aicha/AndroidStudioProjects/AichaFF/app/src/main/res/layout/activity_start_work.xml" value="0.1" />
       </map>
     </option>
   </component>
@@ -14,5 +16,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
   </component>
 </project>

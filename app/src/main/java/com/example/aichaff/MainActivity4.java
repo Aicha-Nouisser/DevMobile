@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import java.util.Locale;
 
-public class StartWork extends AppCompatActivity {
+public class MainActivity4 extends AppCompatActivity {
     private static final long START_TIME_IN_MILLIS = 600000;
 
     private TextView mTextViewCountDown;
@@ -25,7 +25,7 @@ public class StartWork extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_start_work);
+        setContentView(R.layout.activity_main4);
         mTextViewCountDown = findViewById(R.id.text_view_countdown);
 
         mButtonStartPause = findViewById(R.id.button_start_pause);
@@ -96,4 +96,4 @@ public class StartWork extends AppCompatActivity {
 
         mTextViewCountDown.setText(timeLeftFormatted);
     }
-}
+    }
